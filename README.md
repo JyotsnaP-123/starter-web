@@ -1,5 +1,5 @@
 # Starter Web Repo
-This is for training purpose 
+This is for training purpose . Adding one line for rebasing example
 
 ## Purpose
 This is a simple readme file
