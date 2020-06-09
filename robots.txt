@@ -4,3 +4,6 @@ User-agent: *
 
 # Thanks 
 For this training 
+
+Adding changes before rebasing conflicts
+
