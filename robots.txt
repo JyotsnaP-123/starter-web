@@ -7,3 +7,7 @@ For this training
 
 Adding changes before rebasing conflicts
 
+Nothing but the trouble.
+Just for bigtrouble branch.
+
+Some silly changes for master branch.Just for conflicts
