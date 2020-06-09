@@ -1,3 +1,6 @@
 # robotstxt.org/
 
 User-agent: *
+
+# Thanks 
+For this training 
