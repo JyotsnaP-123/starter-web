@@ -15,7 +15,7 @@ How to add instrution
 
 ##Stashing
 Adding for stashing purpose
-Adding more important content 
+Adding more important content. Again adding the content.Updating file for quick fix stash
 
 
  
