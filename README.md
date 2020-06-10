@@ -13,5 +13,9 @@ Adding stuff to Deployment
 ##Instruction
 How to add instrution
 
+##Stashing
+Adding for stashing purpose
+Adding more important content 
+
 
  
