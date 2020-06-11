@@ -19,7 +19,10 @@ Adding for stashing purpose
 Adding more important content. Again adding the content.Updating file for quick fix stash
 =======
 Adding more important content. Again adding the content.
->>>>>>> Stashed changes
+>>>>>>> Stashed changes.
+
+##Multiple Stash
+Adding line for stashing into branch
 
 
  
