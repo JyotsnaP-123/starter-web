@@ -1,1 +1,1 @@
-creating newfile.txt
+creating newfile.txt. Adding extra line for stashing
